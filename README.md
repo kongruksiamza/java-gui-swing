@@ -1,1 +1,1 @@
-โค้ดประกอบการสอน Java GUI (Swing)
+# โค้ดประกอบการสอน Java GUI (Graphic User Interface)

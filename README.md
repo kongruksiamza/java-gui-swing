@@ -1,4 +1,4 @@
-# โค้ดประกอบการสอน Java GUI (Graphic User Interface)
+## โค้ดประกอบการสอน Java GUI (Graphic User Interface)
 - [🏝️ ภาพไอคอนประกอบการสอน](https://github.com/kongruksiamza/java-swing-gui/tree/main/Icons)
 ## ☕ ช่องทางการสนับสนุน
 - [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)

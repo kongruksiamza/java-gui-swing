@@ -1,6 +1,10 @@
 ## 💻โค้ดประกอบการสอน Java GUI (Graphic User Interface)
 - [🏝️ ภาพไอคอนประกอบการสอน](https://github.com/kongruksiamza/java-swing-gui/tree/main/Icons)
 
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา Java (Java Guideline) [อ่านบทความ](https://github.com/kongruksiamza/java-guideline)
+- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
+
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
